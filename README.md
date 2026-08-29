@@ -4,6 +4,10 @@ An end-to-end e-commerce analysis built with BigQuery SQL and Tableau to determi
 
 [View the interactive Tableau dashboard](https://public.tableau.com/app/profile/nikita.sergeevich/viz/VartaMarket2025Performance/ExecutiveOverview)
 
+## Dashboard Preview
+
+[![Varta Market dashboard](images/dashboard.png)](https://public.tableau.com/app/profile/nikita.sergeevich/viz/VartaMarket2025Performance/ExecutiveOverview)
+
 ## Business Problem
 
 Varta Market experienced strong order growth in 2025. Management needed to understand:

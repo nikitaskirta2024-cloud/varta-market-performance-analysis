@@ -27,8 +27,8 @@ The main comparison covers October–November 2025 versus the same period in 202
 * Gross profit reached **UAH 15.47M**, but grew by only **13.3% YoY**.
 * Gross margin fell to **35.41%**, a decline of **5.24 percentage points**.
 * The average discount rate increased from approximately **4.7% to 10.7%**.
-* Applying the 2024 category-level discount rates to the observed 2025 sales mix produced a **UAH 3.05M scenario gap** in realized revenue.
-* Returning customers increased their share from **57.5% to 71.8%**, providing a positive signal for customer retention.
+* Applying the overall 2024 discount rate to the observed 2025 merchandise value produced a UAH 3.05M scenario gap in realized revenue.
+* Returning customers increased their share from **57.5% to 71.8%**, increasing their share of active customers from 57.5% to 71.8%.
 * **Electronics** and **Kids** were the only categories with a negative YoY change in gross profit.
 * Most regions that achieved their order targets still failed to achieve their gross-profit targets.
 
